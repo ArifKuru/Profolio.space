@@ -108,9 +108,9 @@ Designed to enhance personal branding without affecting CV readability
 
 ### 📱 Mobile & Generated Outputs
 
-| **Mobile View** | **Collapsed Sidebar** | **PDF Export** |
+| **Mobile View**  | **PDF Export** |
 | :---: | :---: | :---: |
-| <img src="https://www.arifkuru.com.tr/iss/profolio_space_mobile.png" height="400"> | <img src="https://www.arifkuru.com.tr/iss/admin_profile_collapsed_sidebar.png" height="400"> | <img src="https://www.arifkuru.com.tr/iss/profolio_example_cv.png" height="400"> |
+| <img src="https://www.arifkuru.com.tr/iss/profolio_space_mobile.png" height="400"> |  <img src="https://www.arifkuru.com.tr/iss/profolio_example_cv.png" height="400"> |
 
 <br>
 
