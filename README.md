@@ -120,9 +120,22 @@ Designed to enhance personal branding without affecting CV readability
   <img src="https://www.arifkuru.com.tr/iss/langin_hero.png" width="800" alt="Landing Hero">
 </div>
 
-| **Features Section** | **About Section** |
-| :---: | :---: |
-| <img src="https://www.arifkuru.com.tr/iss/landing_features.png" width="100%"> | <img src="https://www.arifkuru.com.tr/iss/landing_about.png" width="100%"> |
+**Features Section** 
+<div align="center">
+<img src="https://www.arifkuru.com.tr/iss/landing_features.png" width="800"> 
+</div>
+
+**About Section**
+<div align="center">
+<img src="https://www.arifkuru.com.tr/iss/landing_about.png" width="800"> 
+</div>
+
+**Landing Legal & Footer**
+
+<div align="center">
+  <img src="https://www.arifkuru.com.tr/iss/landing_legal.png" width="800" alt="Landing Legal & Footer">
+</div>
+
 
 | **Login** | **Register** |
 | :---: | :---: |
