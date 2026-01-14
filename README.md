@@ -40,7 +40,7 @@ This project started as a learning exercise based on the *"MVC5 ile Sıfırdan A
 </div>
 
 <div align="center">
-  <img src="https://www.arifkuru.com.tr/iss/admin_profile_collapsed_sidebar" alt="Admin About" width="800">
+  <img src="https://www.arifkuru.com.tr/iss/admin_profile_collapsed_sidebar.png" alt="Admin Profile" width="800">
   <br><em>Admin Dashboard - Profile with collapsed sidebar view and profile dropdown</em>
 </div>
 
