@@ -15,7 +15,7 @@
 This project started as a learning exercise based on the *"MVC5 ile Sıfırdan Admin Panelli Dinamik CV Sitesi"* course by Murat Yücedağ. The initial breakthrough came when I added `user_id` to all tables to ensure data integrity, which enabled the platform to serve multiple users from a single site. The **PDF CV export** feature was my own addition to enhance the platform's functionality.
 
 <div align="center">
-  <img src="https://www.arifkuru.com.tr/iss/db_model" alt="Database Model" width="800">
+  <img src="https://www.arifkuru.com.tr/iss/db_model.png" alt="Database Model" width="800">
   <br><em>DB Model</em>
 </div>
 
