@@ -1,4 +1,4 @@
-# CvBuilder
+# Profolio.space - CV & Portfolio Website Builder
 
 A dynamic multi-user CV building platform that allows users to create, manage, and share their professional resumes with unique profile pages.
 
