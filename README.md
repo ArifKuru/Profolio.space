@@ -39,6 +39,12 @@ This project started as a learning exercise based on the *"MVC5 ile Sıfırdan A
 
 ### 🖥️ Admin Panel & Dashboard
 
+Users can select a symbolic character icon (e.g. Lion, Wolf, Eagle, Dragon) to visually represent their professional identity.
+Icons are monochrome and minimal
+Displayed as a subtle decorative element on the profile page
+Does not replace the profile photo
+Designed to enhance personal branding without affecting CV readability
+
 <div align="center">
   <img src="https://www.arifkuru.com.tr/iss/admin_about.png" alt="Admin About" width="800">
   <br><em>Admin Dashboard - About Section</em>
@@ -81,15 +87,7 @@ This project started as a learning exercise based on the *"MVC5 ile Sıfırdan A
 <br>
 
 ### 👤 Public Profile (Portfolio)
-Users can select a symbolic character icon (e.g. Lion, Wolf, Eagle, Dragon) to visually represent their professional identity.
 
-Icons are monochrome and minimal
-
-Displayed as a subtle decorative element on the profile page
-
-Does not replace the profile photo
-
-Designed to enhance personal branding without affecting CV readability
 **Desktop View**
 <div align="center">
   <img src="https://www.arifkuru.com.tr/iss/profolio_space_about.png" width="800" alt="Profile Header">
