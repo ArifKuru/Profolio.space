@@ -40,115 +40,115 @@ Here are all screenshots of the application:
 
 <!-- Add your screenshots here -->
 ### 1. Admin – About
-![Admin About](https://arifkuru.com.tr/iss/admin_about.png)
+![Admin About](https://www.arifkuru.com.tr/iss/admin_about.png)
 
 ### 2. Admin – Social Links
-![Social Links List](https://arifkuru.com.tr/iss/admin_links.png)
+![Social Links List](https://www.arifkuru.com.tr/iss/admin_links.png)
 
-![Social Links Add](https://arifkuru.com.tr/iss/admin_links_add.png)
+![Social Links Add](https://www.arifkuru.com.tr/iss/admin_links_add.png)
 
 ### 3. Admin – Experiences
 
-![Experiences List](https://arifkuru.com.tr/iss/admin_experiences.png)
+![Experiences List](https://www.arifkuru.com.tr/iss/admin_experiences.png)
 
-![Experiences Add](https://arifkuru.com.tr/iss/admin_experiences_add.png)
+![Experiences Add](https://www.arifkuru.com.tr/iss/admin_experiences_add.png)
 
 ### 4. Admin – Educations
 
-![Educations List](https://arifkuru.com.tr/iss/admin_educations.png)
+![Educations List](https://www.arifkuru.com.tr/iss/admin_educations.png)
 
-![Educations Add](https://arifkuru.com.tr/iss/admin_educations_add.png)
+![Educations Add](https://www.arifkuru.com.tr/iss/admin_educations_add.png)
 
 ### 4. Admin – Skills
 
-![Skills List](https://arifkuru.com.tr/iss/admin_skills.png)
+![Skills List](https://www.arifkuru.com.tr/iss/admin_skills.png)
 
-![Skills Add](https://arifkuru.com.tr/iss/admin_skills_add.png)
+![Skills Add](https://www.arifkuru.com.tr/iss/admin_skills_add.png)
 
 ### 5. Admin – Interets
 
-![Interets List](https://arifkuru.com.tr/iss/admin_interests.png)
+![Interets List](https://www.arifkuru.com.tr/iss/admin_interests.png)
 
-![Interets Add](https://arifkuru.com.tr/iss/admin_interests_add.png)
+![Interets Add](https://www.arifkuru.com.tr/iss/admin_interests_add.png)
 
 ### 6. Admin – Achievements
 
-![Achievements List](https://arifkuru.com.tr/iss/admin_achievements.png)
+![Achievements List](https://www.arifkuru.com.tr/iss/admin_achievements.png)
 
-![Achievements Add](https://arifkuru.com.tr/iss/admin_achievements_add.png)
+![Achievements Add](https://www.arifkuru.com.tr/iss/admin_achievements_add.png)
 
 ### 7. Admin – Inbox
 
-![Inbox List](https://arifkuru.com.tr/iss/admin_inbox.png)
+![Inbox List](https://www.arifkuru.com.tr/iss/admin_inbox.png)
 
 
 ### 8. Admin – Cv BUILDER
 
-![CV Builder](https://arifkuru.com.tr/iss/admin_build_cv.png)
+![CV Builder](https://www.arifkuru.com.tr/iss/admin_build_cv.png)
 
 ### 9. Admin – Profile Collapsed Sidebar
 
-![Profile Collapsed Sidebar](https://arifkuru.com.tr/iss/admin_profile_collapsed_sidebar.png)
+![Profile Collapsed Sidebar](https://www.arifkuru.com.tr/iss/admin_profile_collapsed_sidebar.png)
 
 
 ### Example Cv Automaticly Created With Cv Builder
 
-![Example CV](https://arifkuru.com.tr/iss/profolio_example_cv.png)
+![Example CV](https://www.arifkuru.com.tr/iss/profolio_example_cv.png)
 
 ###  Admin – Login
 
-![Admin Login](https://arifkuru.com.tr/iss/admin_login.png)
+![Admin Login](https://www.arifkuru.com.tr/iss/login.png)
 
 ###  Admin – Register
 
-![Admin Register](https://arifkuru.com.tr/iss/admin_register.png)
+![Admin Register](https://www.arifkuru.com.tr/iss/register.png)
 
 ###  1.Profolio – Space About
 
-![Profolio Space About](https://arifkuru.com.tr/iss/profolio_space_about.png)
+![Profolio Space About](https://www.arifkuru.com.tr/iss/profolio_space_about.png)
 
 ###  1.1 Profolio – Space About Mobil View
 
-![Profolio Space About Mobile View](https://arifkuru.com.tr/iss/profolio_space_mobile.png)
+![Profolio Space About Mobile View](https://www.arifkuru.com.tr/iss/profolio_space_mobile.png)
 
 
 ###  2.Profolio – Space Experiences
 
-![Profolio Space Experiences](https://arifkuru.com.tr/iss/profolio_space_experiences.png)
+![Profolio Space Experiences](https://www.arifkuru.com.tr/iss/profolio_space_experiences.png)
 
 
 ###  3.Profolio – Space Educations
 
-![Profolio Space Educations](https://arifkuru.com.tr/iss/profolio_space_educations.png)
+![Profolio Space Educations](https://www.arifkuru.com.tr/iss/profolio_space_educations.png)
 
 ###  4.Profolio – Space Skills
 
-![Profolio Space Skills](https://arifkuru.com.tr/iss/profolio_space_skills.png)
+![Profolio Space Skills](https://www.arifkuru.com.tr/iss/profolio_space_skills.png)
 
 ###  5.Profolio – Space Interests
 
-![Profolio Space Interests](https://arifkuru.com.tr/iss/profolio_space_interests.png)
+![Profolio Space Interests](https://www.arifkuru.com.tr/iss/profolio_space_interests.png)
 
 ###  6.Profolio – Space Achievements
 
-![Profolio Space Achievements](https://arifkuru.com.tr/iss/profolio_space_achievements.png)
+![Profolio Space Achievements](https://www.arifkuru.com.tr/iss/profolio_space_achievements.png)
 
 ###  7.Profolio – Space Achievements
 
-![Profolio Space Contact](https://arifkuru.com.tr/iss/profolio_space_contact.png)
+![Profolio Space Contact](https://www.arifkuru.com.tr/iss/profolio_space_contact.png)
 
 ###  1.Landing – Hero
 
-![Landing – Hero](https://arifkuru.com.tr/iss/langin_hero.png)
+![Landing – Hero](https://www.arifkuru.com.tr/iss/langin_hero.png)
 
 ###  2.Landing – Features
 
-![Landing – Features](https://arifkuru.com.tr/iss/landing_features.png)
+![Landing – Features](https://www.arifkuru.com.tr/iss/landing_features.png)
 
 ###  3.Landing – About
 
-![Landing – Features](https://arifkuru.com.tr/iss/landing_about.png)
+![Landing – Features](https://www.arifkuru.com.tr/iss/landing_about.png)
 
 ###  3.Landing – Legals Accordion & Footer
 
-![Legals Accordion & Footer](https://arifkuru.com.tr/iss/landing_legals.png)
+![Legals Accordion & Footer](https://www.arifkuru.com.tr/iss/landing_legals.png)
