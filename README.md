@@ -46,7 +46,7 @@ Does not replace the profile photo
 Designed to enhance personal branding without affecting CV readability
 
 <div align="center">
-  <img src="https://www.arifkuru.com.tr/iss/admin_about.png" alt="Admin About" width="800">
+  <img src="docs/admin_about.png" alt="Admin About" width="800">
   <br><em>Admin Dashboard - About Section</em>
 </div>
 
